@@ -1,0 +1,12 @@
+datetime
+cmake
+# pathlib
+#os
+#tkcalender
+face_recognition
+opencv-python
+pillow
+pyttsx3
+pandas
+openpyxl
+pygame
